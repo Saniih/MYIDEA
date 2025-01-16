@@ -1,3 +1,4 @@
+## Summary
 # MYIDEA
 
 1. Your Idea in a Nutshell:
